@@ -1,0 +1,26 @@
+{
+  "text.togenc.config.title" : "Merge Enchantments Config",
+  "text.togenc.config.tooltip" : "Show Tooltip in Item",
+  "text.togenc.config.toggle_hand" : "Toggle MainHand Enchantments",
+  "text.togenc.config.toggle_helmet" : "Toggle Helmet Enchantments",
+  "text.togenc.config.toggle_chestplate" : "Toggle Chestplate Enchantments",
+  "text.togenc.config.toggle_leggings" : "Toggle Leggings Enchantments",
+  "text.togenc.config.toggle_boots" : "Toggle Boots Enchantments",
+
+  "text.togenc.config.tooltip.tooltip" : "when is true, you can see a tooltip in the item when is enabled\nor disabled [default = yes]",
+  "text.togenc.config.toggle_hand.tooltip" : "put in the list the enchants that you want to toggle in main hand,\nonly the first enchant in the item list will work\n\nexample (in config): you have to put the enchant like this\nenchant name;#hex color\n-> silk_touch;#00AA00\n\nexample (in game): if you have 2 toggle enchants\n§dDiamond Pickaxe\n§6Mending §fEnabled\n§7Mending§f <- in the list, this enchant will toggle\n§7Fortune III§f <- in the list but will not work",
+  "text.togenc.config.toggle_helmet.tooltip" : "put in the list the enchants that you want to toggle in helmet,\nonly the first enchant in the item list will work\n\nexample (in config): you have to put the enchant like this\nenchant name;#hex color\n-> aqua_affinity;#15557d\n\nexample (in game): if you have 2 toggle enchants\n§dDiamond Helmet\n§bAqua Affinity §fEnabled\n§7Aqua Affinity§f <- in the list, this enchant will toggle\n§7Protection IV§f <- in the list but will not work",
+  "text.togenc.config.toggle_chestplate.tooltip" : "put in the list the enchants that you want to toggle chestplate,\nonly the first enchant in the item list will work\n\nexample (in config): you have to put the enchant like this\nenchant name;#hex color\n-> fire_protection;#bf5f15\n\nexample (in game): if you have 2 toggle enchants\n§dDiamond Chestplate\n§9Protection §fEnabled\n§7Protection IV§f <- in the list, this enchant will toggle\n§7Thorns III§f <- in the list but will not work",
+  "text.togenc.config.toggle_leggings.tooltip" : "put in the list the enchants that you want to toggle leggings,\nonly the first enchant in the item list will work\n\nexample (in config): you have to put the enchant like this\nenchant name;#hex color\n-> swift_sneak;#031a2e\n\nexample (in game): if you have 2 toggle enchants\n§dDiamond Leggings\n§2Swift Sneak §fEnabled\n§7Swift Sneak III§f <- in the list, this enchant will toggle\n§7Protection IV§f <- in the list but will not work",
+  "text.togenc.config.toggle_boots.tooltip" : "put in the list the enchants that you want to toggle boots,\nonly the first enchant in the item list will work\n\nexample (in config): you have to put the enchant like this\nenchant name;#hex color\n-> frost_walker;#A5F2F3\n\nexample (in game): if you have 2 toggle enchants\n§dDiamond Boots\n§bFrost Walker §fEnabled\n§7Frost Walker II§f <- in the list, this enchant will toggle\n§7Soul Speed III§f <- in the list but will not work",
+
+  "text.togenc.tooltip.enabled" : " §fEnabled",
+  "text.togenc.tooltip.disabled" : " §fDisabled",
+
+  "key.togenc.title" : "Merge Enchantments",
+  "key.togenc.toggle_hand_enchantments" : "Toggle MainHand Enchantments",
+  "key.togenc.toggle_helmet_enchantments" : "Toggle Helmet Enchantments",
+  "key.togenc.toggle_chestplate_enchantments" : "Toggle Chestplate Enchantments",
+  "key.togenc.toggle_leggings_enchantments" : "Toggle Leggings Enchantments",
+  "key.togenc.toggle_boots_enchantments" : "Toggle Boots Enchantments"
+}

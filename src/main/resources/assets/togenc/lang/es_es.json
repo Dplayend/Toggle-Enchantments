@@ -1,0 +1,26 @@
+{
+  "text.togenc.config.title" : "Merge Enchantments Configuración",
+  "text.togenc.config.tooltip" : "Mostrar la Información en los Items",
+  "text.togenc.config.toggle_hand" : "Alternar Encantamientos de la Mano",
+  "text.togenc.config.toggle_helmet" : "Alternar Encantamientos del Casco",
+  "text.togenc.config.toggle_chestplate" : "Alternar Encantamientos del Peto",
+  "text.togenc.config.toggle_leggings" : "Alternar Encantamientos de las Grebas",
+  "text.togenc.config.toggle_boots" : "Alternar Encantamientos de las Botas",
+
+  "text.togenc.config.tooltip.tooltip" : "cuando es verdadero, puedes ver la información en el item cuando esta activada o desactivada [por defecto = si]",
+  "text.togenc.config.toggle_hand.tooltip" : "pon en la lista los encantamientos que quieras alternar en la mano principal,\nsolo el primer encantamiento en la lista funcionara\n\nejemplo (en configuración): tienes que ponerlo de esta forma\nnombre del encantamiento;#color hexadecimal\n-> silk_touch;#00AA00\n\nejemplo (en juego): si tienes 2 encantamientos alternados\n§dPico de Diamante\n§6Reparación §fActivado\n§7Reparación§f <- en la lista, este encantamiento se alternara\n§7Fortuna III§f <- en la lista pero no funcionara",
+  "text.togenc.config.toggle_helmet.tooltip" : "pon en la lista los encantamientos que quieras alternar en el casco,\nsolo el primer encantamiento en la lista funcionara\n\nejemplo (en configuración): tienes que ponerlo de esta forma\nnombre del encantamiento;#color hexadecimal\n-> aqua_affinity;#15557d\n\nejemplo (en juego): si tienes 2 encantamientos alternados\n§dCasco de Diamante\n§bAfinidad Acuatica §fActivado\n§7Afinidad Acuatica§f <- en la lista, este encantamiento se alternara\n§7Protección IV§f <- en la lista pero no funcionara",
+  "text.togenc.config.toggle_chestplate.tooltip" : "pon en la lista los encantamientos que quieras alternar en el peto,\nsolo el primer encantamiento en la lista funcionara\n\nejemplo (en configuración): tienes que ponerlo de esta forma\nnombre del encantamiento;#color hexadecimal\n-> fire_protection;#bf5f15\n\nejemplo (en juego): si tienes 2 encantamientos alternados\n§dPeto de Diamante\n§9Protección §fActivado\n§7Protección IV§f <- en la lista, este encantamiento se alternara\n§7Espinas III§f <- en la lista pero no funcionara",
+  "text.togenc.config.toggle_leggings.tooltip" : "pon en la lista los encantamientos que quieras alternar en las grebas,\nsolo el primer encantamiento en la lista funcionara\n\nejemplo (en configuración): tienes que ponerlo de esta forma\nnombre del encantamiento;#color hexadecimal\n-> swift_sneak;#031a2e\n\nejemplo (en juego): si tienes 2 encantamientos alternados\n§dGrebas de Diamante\n§2Sigilo veloz §fActivado\n§7Sigilo veloz III§f <- en la lista, este encantamiento se alternara\n§7Protección IV§f <- en la lista pero no funcionara",
+  "text.togenc.config.toggle_boots.tooltip" : "pon en la lista los encantamientos que quieras alternar en las botas,\nsolo el primer encantamiento en la lista funcionara\n\nejemplo (en configuración): tienes que ponerlo de esta forma\nnombre del encantamiento;#color hexadecimal\n-> frost_walker;#A5F2F3\n\nejemplo (en juego): si tienes 2 encantamientos alternados\n§dBotas de Diamante\n§bPaso helado §fActivado\n§7Paso helado II§f <- en la lista, este encantamiento se alternara\n§7Velocidad del alma III§f <- en la lista pero no funcionara",
+
+  "text.togenc.tooltip.enabled" : " §fActivado",
+  "text.togenc.tooltip.disabled" : " §fDesactivado",
+
+  "key.togenc.title" : "Merge Enchantments",
+  "key.togenc.toggle_hand_enchantments" : "Alternar Encantamientos de la Mano",
+  "key.togenc.toggle_helmet_enchantments" : "Alternar Encantamientos del Casco",
+  "key.togenc.toggle_chestplate_enchantments" : "Alternar Encantamientos del Peto",
+  "key.togenc.toggle_leggings_enchantments" : "Alternar Encantamientos de las Grebas",
+  "key.togenc.toggle_boots_enchantments" : "Alternar Encantamientos de las Botas"
+}

@@ -1,0 +1,19 @@
+modLoader="javafml"
+loaderVersion="[44,)"
+license="All Rights Reserved"
+issueTrackerURL="https://github.com/Dplayend/Toggle-Enchantments/issues"
+[[mods]]
+modId="togenc"
+version="1.0"
+displayName="Toggle Enchantments"
+authors="Dplayend"
+description='''this mod makes you can toggle enchantments'''
+displayURL="https://www.curseforge.com/minecraft/mc-mods/toggle-enchantments"
+logoFile="icon.png"
+
+[[dependencies.togenc]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.19.3,)"
+ordering="NONE"
+side="BOTH"

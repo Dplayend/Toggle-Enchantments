@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.dplayend.togenc.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "togenc.refmap.json",
+  "mixins": [
+    "MixItem",
+    "MixItemStack",
+    "MixPlayerInventory"
+  ],
+  "injectors": { "defaultRequire": 1 }
+}
